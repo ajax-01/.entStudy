@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\y4984\.nuget\packages\automapper\9.0.0\lib\netstandard2.0\AutoMapper.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\y4984\.nuget\packages\identityserver4.aspnetidentity\4.0.0-preview.4.3\lib\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\y4984\.nuget\packages\swashbuckle.aspnetcore.swaggergen\5.4.1\lib\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\y4984\.nuget\packages\microsoft.aspnetcore.authentication.openidconnect\3.1.0\lib\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\y4984\.nuget\packages\newtonsoft.json\12.0.2\lib\netstandard2.0\Newtonsoft.Json.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\y4984\.nuget\packages\identityserver4\4.0.0-preview.4.3\lib\netcoreapp3.1\IdentityServer4.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
